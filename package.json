@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-api-modernmt",
+  "version": "0.0.2",
+  "description": "api/modernmt.js: A module bundled by ac-bundle-module.",
+  "main": "api/modernmt.js",
+  "scripts": {
+    "start": "node api/modernmt.js"
+  },
+  "keywords": [
+    "api/modernmt.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-api-modernmt/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
